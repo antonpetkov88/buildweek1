@@ -1,0 +1,20 @@
+#logo {
+    width: 125px;
+    /* height: 41.66px; */
+    display: block;
+    text-align: center;
+}
+
+#fbbutton{
+
+color: #fff;
+background-color: #3b5998 !important;
+padding-bottom: 0.3rem;
+
+}
+
+#applebutton{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding-top: 0.3rem;
+}
